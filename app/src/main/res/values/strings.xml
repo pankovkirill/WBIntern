@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WBIntern</string>
+    <string name="authorities">wbintern.provider</string>
+    <string name="link">https://disk.yandex.ru/d/e7T_M62Z8jiiAA</string>
+    <string name="provider">Provider</string>
+    <string name="receiver">Receiver</string>
+    <string name="service">Service</string>
+    <string name="service_created">Service created</string>
+    <string name="service_started">Service started</string>
+    <string name="service_stopped">Service stopped</string>
+    <string name="play">Play</string>
+    <string name="city">City</string>
+    <string name="temperature">temperature</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="clear">Clear</string>
+    <string name="city_row">CITY = ?</string>
+    <string name="percent_symbol">%</string>
+    <string name="stop">Stop</string>
+</resources>
