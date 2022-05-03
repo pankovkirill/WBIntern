@@ -113,4 +113,9 @@ class ProviderFragment : Fragment() {
         private const val FIRST_COLUMN = 1
         private const val SECOND_COLUMN = 2
     }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        _binding = null
+    }
 }
